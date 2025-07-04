@@ -1,7 +1,0 @@
-com\example\demo\DemoApplication.class
-com\example\demo\service\JobMatchingService.class
-com\example\demo\service\MatchingResult.class
-com\example\demo\controller\JobController.class
-com\example\demo\dto\JobRequest.class
-com\example\demo\model\Resume.class
-com\example\demo\model\JobDescription.class
